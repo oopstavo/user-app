@@ -1,0 +1,17 @@
+werkzeug
+flask
+flask-bootstrap
+flask-login
+flask-sqlalchemy
+flask-wtf
+wtforms
+flask-mail
+flask-bcrypt
+PyJWT
+numpy
+time
+cv2
+imutils
+flask_uploads
+pymysql
+boto3
